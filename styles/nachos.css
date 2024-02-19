@@ -8,3 +8,15 @@ h1 {
     font-weight: bold;
     margin: 0 auto;
 }
+h2 {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+    text-align:left;
+}
